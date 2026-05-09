@@ -1,0 +1,46 @@
+[07:05:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[07:05:15] [Worker-Main-1/INFO]: No existing world data, creating new world
+[07:05:16] [ServerMain/INFO]: Loaded 1515 recipes
+[07:05:16] [ServerMain/INFO]: Loaded 1617 advancements
+[07:05:16] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[07:05:16] [Server thread/INFO]: Loading properties
+[07:05:16] [Server thread/INFO]: Default game type: SURVIVAL
+[07:05:16] [Server thread/INFO]: Generating keypair
+[07:05:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:05:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:05:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:05:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:05:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:05:17] [Server thread/INFO]: Preparing level "world"
+[07:05:17] [Server thread/INFO]: Selecting global world spawn...
+[07:05:22] [Server thread/INFO]: Loading 0 persistent chunks...
+[07:05:22] [Server thread/INFO]: Preparing spawn area: 100%
+[07:05:22] [Server thread/INFO]: Time elapsed: 5144 ms
+[07:05:22] [Server thread/INFO]: Done (5.437s)! For help, type "help"
+[07:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:05:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:05:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:06:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:08:22] [Server thread/INFO]: _Aqqua[/100.122.208.110:55526] logged in with entity id 9 at (285.5, 69.0, -119.5)
+[07:08:22] [Server thread/INFO]: _Aqqua joined the game
+[07:10:38] [Server thread/INFO]: phamcakee[/100.112.21.58:59194] logged in with entity id 676 at (296.5, 71.0, -127.5)
+[07:10:38] [Server thread/INFO]: phamcakee joined the game
+[07:11:40] [Server thread/INFO]: phamcakee lost connection: Disconnected
+[07:11:40] [Server thread/INFO]: phamcakee left the game
+[07:11:41] [Server thread/INFO]: _Aqqua lost connection: Disconnected
+[07:11:41] [Server thread/INFO]: _Aqqua left the game
+[07:11:50] [Server thread/INFO]: Stopping the server
+[07:11:50] [Server thread/INFO]: Stopping server
+[07:11:50] [Server thread/INFO]: Saving players
+[07:11:50] [Server thread/INFO]: Saving worlds
+[07:11:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:11:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:11:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

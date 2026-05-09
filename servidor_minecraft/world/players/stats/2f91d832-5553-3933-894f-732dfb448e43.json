@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:dark_oak_log": 25,
+      "minecraft:oak_leaves": 1,
+      "minecraft:leaf_litter": 3
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1181,
+      "minecraft:time_since_rest": 3980,
+      "minecraft:fall_one_cm": 1625,
+      "minecraft:walk_one_cm": 12002,
+      "minecraft:total_world_time": 3980,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1161,
+      "minecraft:damage_taken": 29,
+      "minecraft:play_time": 3980,
+      "minecraft:jump": 34,
+      "minecraft:time_since_death": 3980
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 8,
+      "minecraft:dark_oak_log": 25
+    }
+  },
+  "DataVersion": 4790
+}
